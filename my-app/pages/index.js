@@ -334,7 +334,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by <a href="https://github.com/thecodingliva/">&nbsp;liva</a></footer>
+      <footer className={styles.footer}>Made with &#10084; by <a href="https://github.com/xlr8nur/">&nbsp;xlr8nur</a></footer>
     </div>
   );
 }
